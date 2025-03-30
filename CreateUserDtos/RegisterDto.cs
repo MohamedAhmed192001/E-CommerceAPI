@@ -1,6 +1,6 @@
 ﻿using ECommerceAPI.Models;
 
-namespace ECommerceAPI.Dtos
+namespace ECommerceAPI.CreateUserDtos
 {
     public class RegisterDto
     {

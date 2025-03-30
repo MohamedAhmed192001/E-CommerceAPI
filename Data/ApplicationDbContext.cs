@@ -9,10 +9,13 @@ namespace ECommerceAPI.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
+        public DbSet<ApplicationUser> Users { get; set; }
         public DbSet<Category> Categories { get; set; } 
         public DbSet<Order> Orders { get; set; }    
         public DbSet<Product> Products { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
+        public DbSet<Review> Reviews { get; set; }
+
 
 
         protected override void OnModelCreating(ModelBuilder builder)
@@ -47,7 +50,20 @@ namespace ECommerceAPI.Data
                 .HasForeignKey(oi => oi.ProductId)
                 .OnDelete(DeleteBehavior.Restrict);
 
+            // many-to-many: User → Product
 
+            // devide to 2 relationships  
+            builder.Entity<Review>()
+                .HasOne(r => r.User)
+                .WithMany(u => u.Reviews)
+                .HasForeignKey(r => r.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            builder.Entity<Review>()
+                .HasOne(r => r.Product)
+                .WithMany(p => p.Reviews)
+                .HasForeignKey(r => r.ProductId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
 
     }

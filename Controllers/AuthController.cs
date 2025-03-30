@@ -1,6 +1,6 @@
 ﻿using ECommerceAPI.Data;
 using ECommerceAPI.Models;
-using ECommerceAPI.Dtos;
+using ECommerceAPI.CreateUserDtos;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
@@ -8,11 +8,15 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Authorization;
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
+using ECommerceAPI.ResponseDtos;
 
 namespace ECommerceAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class AuthController(UserManager<ApplicationUser> _userManager,
         ApplicationDbContext _dbContext, JwtOptions _jwtOptions) : ControllerBase
     {
@@ -64,9 +68,10 @@ namespace ECommerceAPI.Controllers
 
             var claims = new Claim[]
                  {
-                     new Claim(JwtRegisteredClaimNames.Sub, user.Id),
-                     new Claim(ClaimTypes.Email, user.Email),
+                     new Claim(ClaimTypes.NameIdentifier, user.Id),
                      new Claim(ClaimTypes.Name, user.FirstName + " " + user.LastName),
+                     new Claim(ClaimTypes.Email, user.Email),
+                     new Claim(ClaimTypes.Role, user.Role)
 
                  };
 
@@ -81,6 +86,72 @@ namespace ECommerceAPI.Controllers
             var jwtTokenHandler = new JwtSecurityTokenHandler();
 
             return jwtTokenHandler.WriteToken(jwtSecurityToken);
+        }
+
+        [HttpGet("GetAllUsers")]
+        [Authorize(Roles = "Admin")]
+        public async Task<ActionResult<IEnumerable<ApplicationUser>>> GetAllUsers()
+        {
+            var users = _dbContext.Users.ToList();
+            return Ok(users);
+        }
+
+        [HttpPost("AssignRoleToUser")]
+        [Authorize(Roles = "Admin")]
+        public async Task<ActionResult> AssignRoleToUser(AssignRoleToUserDto model)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var user = await _dbContext.Users.FindAsync(model.UserId);
+            if (user == null)
+                return NotFound(new { Message = $"User with id = {model.UserId} is not found!" });
+
+            var role = await _dbContext.Roles.FindAsync(model.RoleId);
+            if (role == null)
+                return NotFound(new { Message = $"Role with id = {model.RoleId} is not found!" });
+
+            await _userManager.AddToRoleAsync(user, role.Name);
+            await _dbContext.SaveChangesAsync();
+
+
+            return Ok(new { Message = $"{role.Name} Role is assigned to UserName = {user.UserName}" });
+
+        }
+
+        [HttpGet("GetUserDetails")]
+        [Authorize(Roles = "Customer")]
+        public async Task<ActionResult<ApplicationUser>> GetUserDetails()
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            var user = await _dbContext.Users
+                .Include(u => u.Orders)
+                .ThenInclude(o => o.OrderItems)
+                .Select(u => 
+            new UserResponseDto
+            { 
+                Id = u.Id,
+                FullName = u.FirstName + " " + u.LastName,
+                Email = u.Email,
+                Orders = u.Orders.Select(o => 
+                new OrderResponseDto
+                {
+                    Id = o.Id,
+                    OrderDate = o.OrderDate,
+                    TotalAmount = o.TotalAmount,
+                    OrderItems = o.OrderItems.Select(oi =>
+                        new OrderItemResponseDto
+                        {
+                            ProductName = oi.Product.Name,
+                            Quantity = oi.Quantity,
+                            Price = oi.Price,
+                        }).ToList()
+                }).ToList() 
+
+            }).FirstOrDefaultAsync(u => u.Id == userId);
+
+            return Ok(user);
+
         }
     }
 }

@@ -168,3 +168,4 @@ C:\Users\DELL VIP\source\repos\ECommerce\ECommerceAPI\obj\Debug\net9.0\ECommerce
 C:\Users\DELL VIP\source\repos\ECommerce\ECommerceAPI\obj\Debug\net9.0\ECommerceAPI.genruntimeconfig.cache
 C:\Users\DELL VIP\source\repos\ECommerce\ECommerceAPI\obj\Debug\net9.0\ref\ECommerceAPI.dll
 C:\Users\DELL VIP\source\repos\ECommerce\ECommerceAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL VIP\source\repos\ECommerce\ECommerceAPI\obj\Debug\net9.0\ECommerceAPI.sourcelink.json

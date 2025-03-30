@@ -14,5 +14,7 @@ namespace ECommerceAPI.Models
         [ForeignKey("CategoryId")]
         public Category Category { get; set; }
         public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
+        public ICollection<Review> Reviews { get; set; } = new List<Review>();
+
     }
 }

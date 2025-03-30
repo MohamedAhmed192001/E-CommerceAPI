@@ -1,4 +1,4 @@
-﻿namespace ECommerceAPI.Dtos
+﻿namespace ECommerceAPI.CreateUserDtos
 {
     public class LogInDto
     {
