@@ -39,7 +39,7 @@ namespace ECommerceAPI.Controllers
                 {
                     ProductId = oi.ProductId,
                     Quantity = oi.Quantity,
-                    Price = oi.Price,
+                    PriceAtPurchase = oi.PriceAtPurchase,
                 }).ToList(),
             };
 
@@ -71,7 +71,7 @@ namespace ECommerceAPI.Controllers
                 OrderItems = o.OrderItems.Select(oi => new OrderItemResponseDto
                 {
                     ProductName = oi.Product.Name,
-                    Price = oi.Price,
+                    Price = oi.PriceAtPurchase,
                     Quantity = oi.Quantity
                 }).ToList()
 

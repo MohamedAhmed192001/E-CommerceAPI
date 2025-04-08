@@ -6,7 +6,7 @@ namespace ECommerceAPI.Models
     {
         public int Id { get; set; }
         public int Quantity { get; set; } // Store price at the time of purchase
-        public decimal Price { get; set; }
+        public decimal PriceAtPurchase { get; set; }
 
         public int OrderId { get; set; }
         [ForeignKey("OrderId")]

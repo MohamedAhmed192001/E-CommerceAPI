@@ -187,6 +187,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ECommerceAPI.Controllers.CheckoutController",
+    "Method": "ConfirmPayment",
+    "RelativePath": "api/Checkout/confirm-payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ECommerceAPI.PaymentDTOs.PaymentConfirmationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ECommerceAPI.Controllers.CheckoutController",
+    "Method": "CreatePaymentIntent",
+    "RelativePath": "api/Checkout/create-payment-intent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ECommerceAPI.PaymentDTOs.CheckoutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ECommerceAPI.Controllers.OrderItemsController",
     "Method": "CreateOrderItem",
     "RelativePath": "api/OrderItems",

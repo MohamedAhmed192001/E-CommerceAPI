@@ -144,7 +144,7 @@ namespace ECommerceAPI.Controllers
                         {
                             ProductName = oi.Product.Name,
                             Quantity = oi.Quantity,
-                            Price = oi.Price,
+                            Price = oi.PriceAtPurchase,
                         }).ToList()
                 }).ToList() 
 

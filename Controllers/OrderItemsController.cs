@@ -32,7 +32,7 @@ namespace ECommerceAPI.Controllers
                 OrderId = model.OrderId,
                 ProductId = model.ProductId,
                 Quantity = model.Quantity,
-                Price = model.Price
+                PriceAtPurchase = model.Price
             };
 
             await _dbContext.OrderItems.AddAsync(orderItem);
@@ -83,7 +83,7 @@ namespace ECommerceAPI.Controllers
             orderItem.OrderId = model.OrderId;
             orderItem.ProductId = model.ProductId;
             orderItem.Quantity = model.Quantity;
-            orderItem.Price = model.Price;
+            orderItem.PriceAtPurchase = model.Price;
 
             await _dbContext.SaveChangesAsync();
 

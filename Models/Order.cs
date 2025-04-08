@@ -7,7 +7,8 @@ namespace ECommerceAPI.Models
         public int Id { get; set; }
         public DateTime OrderDate { get; set; }
         public Decimal TotalAmount { get; set; }
-
+        public string Status { get; set; }
+        public string PaymentIntentId { get; set; }
 
         public string UserId { get; set; }
         [ForeignKey("UserId")]
