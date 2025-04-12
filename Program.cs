@@ -1,6 +1,8 @@
 using ECommerceAPI;
 using ECommerceAPI.Data;
 using ECommerceAPI.Models;
+using ECommerceAPI.Repositories;
+using ECommerceAPI.Repositories.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +13,8 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddScoped<ICartRepository, CartRepository>();
 
 var jwtOptions = builder.Configuration.GetSection("JwtOptions").Get<JwtOptions>();
 builder.Services.AddSingleton(jwtOptions);
