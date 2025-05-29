@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL VIP\\source\\repos\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj": {}
+    "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL VIP\\source\\repos\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj": {
+    "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL VIP\\source\\repos\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj",
+        "projectUniqueName": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj",
         "projectName": "ECommerceAPI",
-        "projectPath": "C:\\Users\\DELL VIP\\source\\repos\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj",
+        "projectPath": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\ECommerceAPI.csproj",
         "packagesPath": "C:\\Users\\DELL VIP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL VIP\\source\\repos\\ECommerce\\ECommerceAPI\\obj\\",
+        "outputPath": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,6 +75,10 @@
             "Stripe.net": {
               "target": "Package",
               "version": "[47.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
@@ -96,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

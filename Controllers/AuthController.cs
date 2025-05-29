@@ -12,6 +12,7 @@ using Microsoft.AspNetCore.Authorization;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using ECommerceAPI.ResponseDtos;
+using ECommerceAPI.Repositories.Interfaces;
 
 namespace ECommerceAPI.Controllers
 {
@@ -20,7 +21,7 @@ namespace ECommerceAPI.Controllers
     public class AuthController(UserManager<ApplicationUser> _userManager,
         ApplicationDbContext _dbContext, JwtOptions _jwtOptions) : ControllerBase
     {
-       [HttpPost("Register")]
+       [HttpPost("register")]
        public async Task<IActionResult> Register(RegisterDto model)
         {
             if (!ModelState.IsValid) 
@@ -45,7 +46,7 @@ namespace ECommerceAPI.Controllers
             return Ok(new { Message = "User Registered Successfully!" });
        }
 
-        [HttpPost("LogIn")]
+        [HttpPost("login")]
         public async Task<IActionResult> LogIn(LogInDto model)
         {
             if(!ModelState.IsValid)
@@ -136,16 +137,17 @@ namespace ECommerceAPI.Controllers
                 Orders = u.Orders.Select(o => 
                 new OrderResponseDto
                 {
-                    Id = o.Id,
+                    UserId = o.UserId,
+                    UserName = o.User.UserName,
+                    Address = o.User.Address,
                     OrderDate = o.OrderDate,
-                    TotalAmount = o.TotalAmount,
-                    OrderItems = o.OrderItems.Select(oi =>
-                        new OrderItemResponseDto
-                        {
-                            ProductName = oi.Product.Name,
-                            Quantity = oi.Quantity,
-                            Price = oi.PriceAtPurchase,
-                        }).ToList()
+                    Phone = o.Phone,
+                    Items = o.OrderItems.Select(oi => new OrderItemResponseDto
+                    {
+                        ProductName = oi.Product.Name,
+                        Price = oi.PriceAtPurchase,
+                        Quantity = oi.Quantity
+                    }).ToList()
                 }).ToList() 
 
             }).FirstOrDefaultAsync(u => u.Id == userId);

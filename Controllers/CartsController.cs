@@ -35,8 +35,7 @@ namespace ECommerceAPI.Controllers
             return await _cartRepository.GetCartByUserIdAsync(userId);
         }
 
-        [HttpDelete("remove-from-cart")]
-        [Route("{productId}")]
+        [HttpDelete("remove-from-cart/{productId}")]
         [Authorize]
         public async Task<ActionResult> RemoveFromCart(int productId)
         {

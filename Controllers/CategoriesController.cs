@@ -28,8 +28,8 @@ namespace ECommerceAPI.Controllers
             return Ok(new {Message = "Category is Created Successfully!"});
         }
 
-        [HttpGet]
-        [Authorize(Roles = "Customer")]
+        [HttpGet("get-all-categories")]
+        [Authorize(Roles = "Customer, Admin")]
         public async Task<ActionResult<IEnumerable<Category>>> GetAllCategories()
         {
             var categories = _dbContext.Categories.ToList();

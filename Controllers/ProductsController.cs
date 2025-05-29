@@ -13,9 +13,9 @@ namespace ECommerceAPI.Controllers
     [ApiController]
     public class ProductsController(ApplicationDbContext _dbContext) : ControllerBase
     {
-        [HttpPost]
+        [HttpPost("add-product")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult> CreateProduct(ProductDto model)
+        public async Task<ActionResult> AddProduct(ProductDto model)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -24,44 +24,63 @@ namespace ECommerceAPI.Controllers
             if (!existingCategory)
                 return NotFound(new { Message = $"Category with id = {model.CategoryId} is not found!" });
 
-            var product = new Product()
+
+
+            if (model.ImageFile == null || model.ImageFile.Length == 0)
+                return BadRequest("Image is required.");
+
+            // Generate unique file name
+            var fileName = Guid.NewGuid().ToString() + Path.GetExtension(model.ImageFile.FileName);
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+
+            // Save the image to wwwroot/images
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await model.ImageFile.CopyToAsync(stream);
+            }
+
+            // Save to DB
+            var product = new Product
             {
                 Name = model.Name,
                 Description = model.Description,
                 Price = model.Price,
                 Stock = model.Stock,
-                CategoryId = model.CategoryId
+                CategoryId = model.CategoryId,
+                ImagePath = "/images/" + fileName // Save only relative path
             };
-            await _dbContext.Products.AddAsync(product);
+
+            _dbContext.Products.Add(product);
             await _dbContext.SaveChangesAsync();
+
             return Ok(new { Message = "Product is created successfully!" });
         }
 
         [HttpGet]
-        [Authorize(Roles = "Customer")]
+        [Authorize(Roles = "Customer, Admin")]
         public async Task<ActionResult<IEnumerable<Product>>> GetAllProducts()
         {
-            var products = _dbContext.Products.ToList();
+            var products = _dbContext.Products.Include(p => p.Category).ToList();
             return Ok(products);
         }
 
-        [HttpGet("{id}")]
-        [Authorize(Roles = "Customer")]
-        public async Task<ActionResult<Product>> GetProduct(int id)
+        [HttpGet("get-product-details/{id}")]
+        [Authorize(Roles = "Customer, Admin")]
+        public async Task<ActionResult<Product>> GetProductDetails(int id)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            var product = await _dbContext.Products.FindAsync(id);
+            var product = await _dbContext.Products.Include(p => p.Category).FirstOrDefaultAsync(p => p.Id == id);
             if (product == null)
                 return NotFound(new { Message = $"Product with id = {id} is not found!" });
 
             return Ok(product);
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("update-product/{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult> UpdateProduct(int id, ProductDto model)
+        public async Task<ActionResult> UpdateProduct(int id, [FromForm]ProductDto model)
         {
             if(!ModelState.IsValid)
                 return BadRequest(ModelState);

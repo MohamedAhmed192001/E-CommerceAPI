@@ -4,7 +4,9 @@ namespace ECommerceAPI.CreateUserDtos
 {
     public class OrderDto
     {
-        public Decimal TotalAmount { get; set; }
-        public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
+        public int UserId { get; set; }
+        public int Phone { get; set; }
+        public string Address { get; set; }
+        public ICollection<OrderItemDto> Items { get; set; } = new List<OrderItemDto>();
     }
 }

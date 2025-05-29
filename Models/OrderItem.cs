@@ -5,7 +5,7 @@ namespace ECommerceAPI.Models
     public class OrderItem
     {
         public int Id { get; set; }
-        public int Quantity { get; set; } // Store price at the time of purchase
+        public int Quantity { get; set; } 
         public decimal PriceAtPurchase { get; set; }
 
         public int OrderId { get; set; }
