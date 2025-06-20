@@ -1,292 +1,346 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\12430def-be1c-4104-b210-2dcc83d8beb1.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\Bakery &amp; Bread.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg</RelativePath>
+      <RelativePath>images/categories/Bakery &amp; Bread/Bakery &amp; Bread.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>al7bner2ux</Fingerprint>
-      <Integrity>Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU=</Integrity>
+      <Fingerprint>6fy4wxvk5f</Fingerprint>
+      <Integrity>vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\12430def-be1c-4104-b210-2dcc83d8beb1.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\Bakery &amp; Bread.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\products\chips.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg</RelativePath>
+      <RelativePath>images/categories/Bakery &amp; Bread/products/chips.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qno1pus7xm</Fingerprint>
-      <Integrity>6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=</Integrity>
+      <Fingerprint>shkbditd90</Fingerprint>
+      <Integrity>gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\products\chips.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\products\croissant.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg</RelativePath>
+      <RelativePath>images/categories/Bakery &amp; Bread/products/croissant.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qno1pus7xm</Fingerprint>
-      <Integrity>6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=</Integrity>
+      <Fingerprint>ytzyrzhlfg</Fingerprint>
+      <Integrity>5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\products\croissant.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\products\white_bread.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg</RelativePath>
+      <RelativePath>images/categories/Bakery &amp; Bread/products/white_bread.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i02hg0m2hv</Fingerprint>
-      <Integrity>jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=</Integrity>
+      <Fingerprint>2qcjnlvh1t</Fingerprint>
+      <Integrity>1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\products\white_bread.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\Dairy &amp; Eggs.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg</RelativePath>
+      <RelativePath>images/categories/Dairy &amp; Eggs/Dairy &amp; Eggs.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9yav6xqdu0</Fingerprint>
-      <Integrity>z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=</Integrity>
+      <Fingerprint>c2lizk1ufd</Fingerprint>
+      <Integrity>JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\Dairy &amp; Eggs.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\products\eggs.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg</RelativePath>
+      <RelativePath>images/categories/Dairy &amp; Eggs/products/eggs.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>27cdulic2k</Fingerprint>
-      <Integrity>Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc=</Integrity>
+      <Fingerprint>6kywkdjiox</Fingerprint>
+      <Integrity>CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\products\eggs.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\products\milk.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg</RelativePath>
+      <RelativePath>images/categories/Dairy &amp; Eggs/products/milk.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qno1pus7xm</Fingerprint>
-      <Integrity>6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=</Integrity>
+      <Fingerprint>e9br5kviv0</Fingerprint>
+      <Integrity>PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\products\milk.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\products\yogurt.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg</RelativePath>
+      <RelativePath>images/categories/Dairy &amp; Eggs/products/yogurt.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1gselgt7s9</Fingerprint>
-      <Integrity>f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0=</Integrity>
+      <Fingerprint>23pjuuqvvu</Fingerprint>
+      <Integrity>QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Dairy &amp; Eggs\products\yogurt.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fish &amp; Seafood\Fish &amp; Seafood.png'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png</RelativePath>
+      <RelativePath>images/categories/Fish &amp; Seafood/Fish &amp; Seafood.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5w9zlofs2g</Fingerprint>
-      <Integrity>K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=</Integrity>
+      <Fingerprint>abplkfrx2g</Fingerprint>
+      <Integrity>ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fish &amp; Seafood\Fish &amp; Seafood.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fish &amp; Seafood\products\salmon_fillet.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg</RelativePath>
+      <RelativePath>images/categories/Fish &amp; Seafood/products/salmon_fillet.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>stgso49sx8</Fingerprint>
-      <Integrity>0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI=</Integrity>
+      <Fingerprint>b38li1w3ju</Fingerprint>
+      <Integrity>N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fish &amp; Seafood\products\salmon_fillet.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fish &amp; Seafood\products\shrimp.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg</RelativePath>
+      <RelativePath>images/categories/Fish &amp; Seafood/products/shrimp.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8cyenpfbuo</Fingerprint>
-      <Integrity>WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I=</Integrity>
+      <Fingerprint>hx6y34grvz</Fingerprint>
+      <Integrity>lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fish &amp; Seafood\products\shrimp.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\Fruits &amp; Vegetables.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg</RelativePath>
+      <RelativePath>images/categories/Fruits &amp; Vegetables/Fruits &amp; Vegetables.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6t1vxrk2oc</Fingerprint>
-      <Integrity>Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU=</Integrity>
+      <Fingerprint>9c87v00jsn</Fingerprint>
+      <Integrity>B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\Fruits &amp; Vegetables.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\OIP (1).jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\apples.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/OIP (1).jpg</RelativePath>
+      <RelativePath>images/categories/Fruits &amp; Vegetables/products/apples.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9yav6xqdu0</Fingerprint>
-      <Integrity>z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=</Integrity>
+      <Fingerprint>qqv5gjtwpt</Fingerprint>
+      <Integrity>8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\OIP (1).jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\apples.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\OIP.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\bananas.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/OIP.jpg</RelativePath>
+      <RelativePath>images/categories/Fruits &amp; Vegetables/products/bananas.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7xbcsen4bn</Fingerprint>
-      <Integrity>pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4=</Integrity>
+      <Fingerprint>4mmzkvu0rp</Fingerprint>
+      <Integrity>PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\OIP.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\bananas.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PCs-2.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\carrots.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/PCs-2.jpg</RelativePath>
+      <RelativePath>images/categories/Fruits &amp; Vegetables/products/carrots.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i02hg0m2hv</Fingerprint>
-      <Integrity>jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=</Integrity>
+      <Fingerprint>36y8rx6hzy</Fingerprint>
+      <Integrity>+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\PCs-2.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\carrots.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Workstation-set-up.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\tomatoes.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ECommerceAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ECommerceAPI</BasePath>
-      <RelativePath>images/Workstation-set-up.png</RelativePath>
+      <RelativePath>images/categories/Fruits &amp; Vegetables/products/tomatoes.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5w9zlofs2g</Fingerprint>
-      <Integrity>K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=</Integrity>
+      <Fingerprint>1jeqjzrpv7</Fingerprint>
+      <Integrity>DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Workstation-set-up.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\products\tomatoes.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Meat &amp; Poultry\Meat &amp; Poultry.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerceAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerceAPI</BasePath>
+      <RelativePath>images/categories/Meat &amp; Poultry/Meat &amp; Poultry.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m980b395dz</Fingerprint>
+      <Integrity>Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Meat &amp; Poultry\Meat &amp; Poultry.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Meat &amp; Poultry\products\beef_steak.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerceAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerceAPI</BasePath>
+      <RelativePath>images/categories/Meat &amp; Poultry/products/beef_steak.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>y09tpax9r9</Fingerprint>
+      <Integrity>Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Meat &amp; Poultry\products\beef_steak.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Meat &amp; Poultry\products\chicken_breast.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerceAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerceAPI</BasePath>
+      <RelativePath>images/categories/Meat &amp; Poultry/products/chicken_breast.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cbtoc9on66</Fingerprint>
+      <Integrity>mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Meat &amp; Poultry\products\chicken_breast.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

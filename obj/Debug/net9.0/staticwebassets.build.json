@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t/jzBx+DOx4hhDDW9j0UEp+hoxxZq3vaY2ZZ5B6EQS8=",
+  "Hash": "xNDKNo5WDwk1F6B8+UqDIcOLF7/I74Cmt2LdO1NknR0=",
   "Source": "ECommerceAPI",
   "BasePath": "_content/ECommerceAPI",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/12430def-be1c-4104-b210-2dcc83d8beb1#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Bakery & Bread/Bakery & Bread#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "al7bner2ux",
-      "Integrity": "Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU=",
+      "Fingerprint": "6fy4wxvk5f",
+      "Integrity": "vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\12430def-be1c-4104-b210-2dcc83d8beb1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\chips.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Bakery & Bread/products/chips#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,19 +52,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qno1pus7xm",
-      "Integrity": "6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=",
+      "Fingerprint": "shkbditd90",
+      "Integrity": "gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Bakery & Bread\\products\\chips.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\croissant.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/1cfe7d6b-539e-496f-9b71-7d871773b225#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Bakery & Bread/products/croissant#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,19 +73,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qno1pus7xm",
-      "Integrity": "6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=",
+      "Fingerprint": "ytzyrzhlfg",
+      "Integrity": "5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Bakery & Bread\\products\\croissant.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\white_bread.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/1eadead7-9465-491a-b0db-855eb4a28ae2#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Bakery & Bread/products/white_bread#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,19 +94,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i02hg0m2hv",
-      "Integrity": "jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=",
+      "Fingerprint": "2qcjnlvh1t",
+      "Integrity": "1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Bakery & Bread\\products\\white_bread.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\Dairy & Eggs.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Dairy & Eggs/Dairy & Eggs#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,19 +115,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9yav6xqdu0",
-      "Integrity": "z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=",
+      "Fingerprint": "c2lizk1ufd",
+      "Integrity": "JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Dairy & Eggs\\Dairy & Eggs.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\eggs.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Dairy & Eggs/products/eggs#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -136,19 +136,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "27cdulic2k",
-      "Integrity": "Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc=",
+      "Fingerprint": "6kywkdjiox",
+      "Integrity": "CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Dairy & Eggs\\products\\eggs.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\milk.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Dairy & Eggs/products/milk#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -157,19 +157,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qno1pus7xm",
-      "Integrity": "6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=",
+      "Fingerprint": "e9br5kviv0",
+      "Integrity": "PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Dairy & Eggs\\products\\milk.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\yogurt.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/65bd6426-b869-4c89-a824-6a57ca6542c9#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Dairy & Eggs/products/yogurt#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -178,19 +178,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1gselgt7s9",
-      "Integrity": "f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0=",
+      "Fingerprint": "23pjuuqvvu",
+      "Integrity": "QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Dairy & Eggs\\products\\yogurt.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\Fish & Seafood.png",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005#[.{fingerprint}]?.png",
+      "RelativePath": "images/categories/Fish & Seafood/Fish & Seafood#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -199,19 +199,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5w9zlofs2g",
-      "Integrity": "K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=",
+      "Fingerprint": "abplkfrx2g",
+      "Integrity": "ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fish & Seafood\\Fish & Seafood.png"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\salmon_fillet.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Fish & Seafood/products/salmon_fillet#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -220,19 +220,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "stgso49sx8",
-      "Integrity": "0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI=",
+      "Fingerprint": "b38li1w3ju",
+      "Integrity": "N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fish & Seafood\\products\\salmon_fillet.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/b80bdb36-e779-4f9f-95ef-249067b14af9#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Fish & Seafood/products/shrimp#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -241,19 +241,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8cyenpfbuo",
-      "Integrity": "WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I=",
+      "Fingerprint": "hx6y34grvz",
+      "Integrity": "lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Fruits & Vegetables/Fruits & Vegetables#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -262,19 +262,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6t1vxrk2oc",
-      "Integrity": "Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU=",
+      "Fingerprint": "9c87v00jsn",
+      "Integrity": "B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP (1).jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\apples.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/OIP (1)#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Fruits & Vegetables/products/apples#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -283,19 +283,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9yav6xqdu0",
-      "Integrity": "z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=",
+      "Fingerprint": "qqv5gjtwpt",
+      "Integrity": "8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\OIP (1).jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fruits & Vegetables\\products\\apples.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\bananas.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/OIP#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Fruits & Vegetables/products/bananas#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -304,19 +304,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7xbcsen4bn",
-      "Integrity": "pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4=",
+      "Fingerprint": "4mmzkvu0rp",
+      "Integrity": "PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\OIP.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fruits & Vegetables\\products\\bananas.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\PCs-2.jpg",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\carrots.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/PCs-2#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/categories/Fruits & Vegetables/products/carrots#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -325,19 +325,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i02hg0m2hv",
-      "Integrity": "jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=",
+      "Fingerprint": "36y8rx6hzy",
+      "Integrity": "+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\PCs-2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fruits & Vegetables\\products\\carrots.jpg"
     },
     {
-      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\Workstation-set-up.png",
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\tomatoes.jpg",
       "SourceId": "ECommerceAPI",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
       "BasePath": "_content/ECommerceAPI",
-      "RelativePath": "images/Workstation-set-up#[.{fingerprint}]?.png",
+      "RelativePath": "images/categories/Fruits & Vegetables/products/tomatoes#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -346,17 +346,80 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5w9zlofs2g",
-      "Integrity": "K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=",
+      "Fingerprint": "1jeqjzrpv7",
+      "Integrity": "DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Workstation-set-up.png"
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Fruits & Vegetables\\products\\tomatoes.jpg"
+    },
+    {
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\Meat & Poultry.jpeg",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/categories/Meat & Poultry/Meat & Poultry#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m980b395dz",
+      "Integrity": "Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Meat & Poultry\\Meat & Poultry.jpeg"
+    },
+    {
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\beef_steak.jpg",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/categories/Meat & Poultry/products/beef_steak#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y09tpax9r9",
+      "Integrity": "Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Meat & Poultry\\products\\beef_steak.jpg"
+    },
+    {
+      "Identity": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/categories/Meat & Poultry/products/chicken_breast#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cbtoc9on66",
+      "Integrity": "mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "images/12430def-be1c-4104-b210-2dcc83d8beb1.al7bner2ux.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
+      "Route": "images/categories/Bakery & Bread/Bakery & Bread.6fy4wxvk5f.jpeg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -365,7 +428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "159641"
+          "Value": "22402"
         },
         {
           "Name": "Content-Type",
@@ -373,11 +436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU=\""
+          "Value": "\"vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:58 GMT"
+          "Value": "Wed, 18 Jun 2025 21:36:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -387,21 +450,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "al7bner2ux"
+          "Value": "6fy4wxvk5f"
         },
         {
           "Name": "label",
-          "Value": "images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg"
+          "Value": "images/categories/Bakery & Bread/Bakery & Bread.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU="
+          "Value": "sha256-vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408="
         }
       ]
     },
     {
-      "Route": "images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
+      "Route": "images/categories/Bakery & Bread/Bakery & Bread.jpeg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -410,7 +473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "159641"
+          "Value": "22402"
         },
         {
           "Name": "Content-Type",
@@ -418,11 +481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU=\""
+          "Value": "\"vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:58 GMT"
+          "Value": "Wed, 18 Jun 2025 21:36:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -432,13 +495,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU="
+          "Value": "sha256-vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408="
         }
       ]
     },
     {
-      "Route": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
+      "Route": "images/categories/Bakery & Bread/products/chips.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\chips.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -447,7 +510,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "12924"
         },
         {
           "Name": "Content-Type",
@@ -455,11 +518,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:45:02 GMT"
+          "Value": "Thu, 19 Jun 2025 14:14:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -469,13 +532,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM="
         }
       ]
     },
     {
-      "Route": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.qno1pus7xm.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
+      "Route": "images/categories/Bakery & Bread/products/chips.shkbditd90.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\chips.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -484,7 +547,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "12924"
         },
         {
           "Name": "Content-Type",
@@ -492,11 +555,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:45:02 GMT"
+          "Value": "Thu, 19 Jun 2025 14:14:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -506,21 +569,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qno1pus7xm"
+          "Value": "shkbditd90"
         },
         {
           "Name": "label",
-          "Value": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg"
+          "Value": "images/categories/Bakery & Bread/products/chips.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM="
         }
       ]
     },
     {
-      "Route": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
+      "Route": "images/categories/Bakery & Bread/products/croissant.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\croissant.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -529,7 +592,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "134038"
         },
         {
           "Name": "Content-Type",
@@ -537,11 +600,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:08 GMT"
+          "Value": "Fri, 20 Jun 2025 16:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -551,13 +614,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U="
         }
       ]
     },
     {
-      "Route": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.qno1pus7xm.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
+      "Route": "images/categories/Bakery & Bread/products/croissant.ytzyrzhlfg.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\croissant.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -566,7 +629,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "134038"
         },
         {
           "Name": "Content-Type",
@@ -574,11 +637,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:08 GMT"
+          "Value": "Fri, 20 Jun 2025 16:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -588,21 +651,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qno1pus7xm"
+          "Value": "ytzyrzhlfg"
         },
         {
           "Name": "label",
-          "Value": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg"
+          "Value": "images/categories/Bakery & Bread/products/croissant.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U="
         }
       ]
     },
     {
-      "Route": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.i02hg0m2hv.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
+      "Route": "images/categories/Bakery & Bread/products/white_bread.2qcjnlvh1t.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\white_bread.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -611,7 +674,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "9260"
         },
         {
           "Name": "Content-Type",
@@ -619,11 +682,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:14:54 GMT"
+          "Value": "Fri, 20 Jun 2025 16:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -633,21 +696,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i02hg0m2hv"
+          "Value": "2qcjnlvh1t"
         },
         {
           "Name": "label",
-          "Value": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg"
+          "Value": "images/categories/Bakery & Bread/products/white_bread.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc="
         }
       ]
     },
     {
-      "Route": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
+      "Route": "images/categories/Bakery & Bread/products/white_bread.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\white_bread.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -656,7 +719,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "9260"
         },
         {
           "Name": "Content-Type",
@@ -664,11 +727,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:14:54 GMT"
+          "Value": "Fri, 20 Jun 2025 16:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -678,13 +741,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc="
         }
       ]
     },
     {
-      "Route": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.9yav6xqdu0.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
+      "Route": "images/categories/Dairy & Eggs/Dairy & Eggs.c2lizk1ufd.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\Dairy & Eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -693,7 +756,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "113353"
         },
         {
           "Name": "Content-Type",
@@ -701,11 +764,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:11:33 GMT"
+          "Value": "Wed, 18 Jun 2025 21:35:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -715,21 +778,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9yav6xqdu0"
+          "Value": "c2lizk1ufd"
         },
         {
           "Name": "label",
-          "Value": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg"
+          "Value": "images/categories/Dairy & Eggs/Dairy & Eggs.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg="
         }
       ]
     },
     {
-      "Route": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
+      "Route": "images/categories/Dairy & Eggs/Dairy & Eggs.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\Dairy & Eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -738,7 +801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "113353"
         },
         {
           "Name": "Content-Type",
@@ -746,11 +809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:11:33 GMT"
+          "Value": "Wed, 18 Jun 2025 21:35:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -760,13 +823,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg="
         }
       ]
     },
     {
-      "Route": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.27cdulic2k.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/eggs.6kywkdjiox.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -775,7 +838,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53723"
+          "Value": "49629"
         },
         {
           "Name": "Content-Type",
@@ -783,11 +846,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc=\""
+          "Value": "\"CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:59 GMT"
+          "Value": "Fri, 20 Jun 2025 16:10:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -797,21 +860,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "27cdulic2k"
+          "Value": "6kywkdjiox"
         },
         {
           "Name": "label",
-          "Value": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg"
+          "Value": "images/categories/Dairy & Eggs/products/eggs.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc="
+          "Value": "sha256-CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk="
         }
       ]
     },
     {
-      "Route": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/eggs.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -820,7 +883,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53723"
+          "Value": "49629"
         },
         {
           "Name": "Content-Type",
@@ -828,11 +891,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc=\""
+          "Value": "\"CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:59 GMT"
+          "Value": "Fri, 20 Jun 2025 16:10:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -842,13 +905,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc="
+          "Value": "sha256-CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk="
         }
       ]
     },
     {
-      "Route": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/milk.e9br5kviv0.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\milk.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -857,7 +920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "129857"
         },
         {
           "Name": "Content-Type",
@@ -865,48 +928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:25:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
-        }
-      ]
-    },
-    {
-      "Route": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.qno1pus7xm.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "116712"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:25:50 GMT"
+          "Value": "Thu, 19 Jun 2025 14:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -916,21 +942,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qno1pus7xm"
+          "Value": "e9br5kviv0"
         },
         {
           "Name": "label",
-          "Value": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg"
+          "Value": "images/categories/Dairy & Eggs/products/milk.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM="
         }
       ]
     },
     {
-      "Route": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.1gselgt7s9.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/milk.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\milk.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -939,7 +965,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12935"
+          "Value": "129857"
         },
         {
           "Name": "Content-Type",
@@ -947,56 +973,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0=\""
+          "Value": "\"PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1gselgt7s9"
-        },
-        {
-          "Name": "label",
-          "Value": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0="
-        }
-      ]
-    },
-    {
-      "Route": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12935"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:10 GMT"
+          "Value": "Thu, 19 Jun 2025 14:13:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1006,13 +987,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0="
+          "Value": "sha256-PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM="
         }
       ]
     },
     {
-      "Route": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.5w9zlofs2g.png",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
+      "Route": "images/categories/Dairy & Eggs/products/yogurt.23pjuuqvvu.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\yogurt.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1021,7 +1002,89 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "9626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:16:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "23pjuuqvvu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Dairy & Eggs/products/yogurt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Dairy & Eggs/products/yogurt.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\yogurt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:16:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fish & Seafood/Fish & Seafood.abplkfrx2g.png",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\Fish & Seafood.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "780230"
         },
         {
           "Name": "Content-Type",
@@ -1029,11 +1092,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:13:24 GMT"
+          "Value": "Fri, 20 Jun 2025 14:57:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1043,21 +1106,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w9zlofs2g"
+          "Value": "abplkfrx2g"
         },
         {
           "Name": "label",
-          "Value": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png"
+          "Value": "images/categories/Fish & Seafood/Fish & Seafood.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw="
         }
       ]
     },
     {
-      "Route": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
+      "Route": "images/categories/Fish & Seafood/Fish & Seafood.png",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\Fish & Seafood.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1066,7 +1129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "780230"
         },
         {
           "Name": "Content-Type",
@@ -1074,11 +1137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:13:24 GMT"
+          "Value": "Fri, 20 Jun 2025 14:57:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1088,13 +1151,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw="
         }
       ]
     },
     {
-      "Route": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
+      "Route": "images/categories/Fish & Seafood/products/salmon_fillet.b38li1w3ju.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\salmon_fillet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1103,7 +1166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "122302"
+          "Value": "83457"
         },
         {
           "Name": "Content-Type",
@@ -1111,48 +1174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI=\""
+          "Value": "\"N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI="
-        }
-      ]
-    },
-    {
-      "Route": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.stgso49sx8.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "122302"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:18 GMT"
+          "Value": "Fri, 20 Jun 2025 15:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1162,21 +1188,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "stgso49sx8"
+          "Value": "b38li1w3ju"
         },
         {
           "Name": "label",
-          "Value": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg"
+          "Value": "images/categories/Fish & Seafood/products/salmon_fillet.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI="
+          "Value": "sha256-N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc="
         }
       ]
     },
     {
-      "Route": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.8cyenpfbuo.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
+      "Route": "images/categories/Fish & Seafood/products/salmon_fillet.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\salmon_fillet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1185,7 +1211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15814"
+          "Value": "83457"
         },
         {
           "Name": "Content-Type",
@@ -1193,56 +1219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I=\""
+          "Value": "\"N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8cyenpfbuo"
-        },
-        {
-          "Name": "label",
-          "Value": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I="
-        }
-      ]
-    },
-    {
-      "Route": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15814"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:56 GMT"
+          "Value": "Fri, 20 Jun 2025 15:55:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1252,13 +1233,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I="
+          "Value": "sha256-N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc="
         }
       ]
     },
     {
-      "Route": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.6t1vxrk2oc.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
+      "Route": "images/categories/Fish & Seafood/products/shrimp.hx6y34grvz.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1267,7 +1248,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "181598"
+          "Value": "8344"
         },
         {
           "Name": "Content-Type",
@@ -1275,11 +1256,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU=\""
+          "Value": "\"lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:52:59 GMT"
+          "Value": "Fri, 20 Jun 2025 15:56:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1289,21 +1270,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6t1vxrk2oc"
+          "Value": "hx6y34grvz"
         },
         {
           "Name": "label",
-          "Value": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg"
+          "Value": "images/categories/Fish & Seafood/products/shrimp.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU="
+          "Value": "sha256-lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg="
         }
       ]
     },
     {
-      "Route": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
+      "Route": "images/categories/Fish & Seafood/products/shrimp.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1312,7 +1293,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "181598"
+          "Value": "8344"
         },
         {
           "Name": "Content-Type",
@@ -1320,11 +1301,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU=\""
+          "Value": "\"lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:52:59 GMT"
+          "Value": "Fri, 20 Jun 2025 15:56:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1334,13 +1315,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU="
+          "Value": "sha256-lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg="
         }
       ]
     },
     {
-      "Route": "images/OIP (1).9yav6xqdu0.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP (1).jpg",
+      "Route": "images/categories/Fruits & Vegetables/Fruits & Vegetables.9c87v00jsn.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1349,7 +1330,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "701428"
         },
         {
           "Name": "Content-Type",
@@ -1357,11 +1338,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:07:59 GMT"
+          "Value": "Thu, 19 Jun 2025 10:31:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1371,21 +1352,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9yav6xqdu0"
+          "Value": "9c87v00jsn"
         },
         {
           "Name": "label",
-          "Value": "images/OIP (1).jpg"
+          "Value": "images/categories/Fruits & Vegetables/Fruits & Vegetables.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU="
         }
       ]
     },
     {
-      "Route": "images/OIP (1).jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP (1).jpg",
+      "Route": "images/categories/Fruits & Vegetables/Fruits & Vegetables.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1394,7 +1375,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "701428"
         },
         {
           "Name": "Content-Type",
@@ -1402,11 +1383,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:07:59 GMT"
+          "Value": "Thu, 19 Jun 2025 10:31:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1416,13 +1397,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU="
         }
       ]
     },
     {
-      "Route": "images/OIP.7xbcsen4bn.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/apples.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\apples.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1431,7 +1412,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12092"
+          "Value": "1917415"
         },
         {
           "Name": "Content-Type",
@@ -1439,11 +1420,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4=\""
+          "Value": "\"8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:07 GMT"
+          "Value": "Thu, 19 Jun 2025 14:12:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fruits & Vegetables/products/apples.qqv5gjtwpt.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\apples.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1917415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:12:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1453,21 +1471,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7xbcsen4bn"
+          "Value": "qqv5gjtwpt"
         },
         {
           "Name": "label",
-          "Value": "images/OIP.jpg"
+          "Value": "images/categories/Fruits & Vegetables/products/apples.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4="
+          "Value": "sha256-8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ="
         }
       ]
     },
     {
-      "Route": "images/OIP.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/bananas.4mmzkvu0rp.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\bananas.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1476,7 +1494,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12092"
+          "Value": "7457"
         },
         {
           "Name": "Content-Type",
@@ -1484,48 +1502,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4=\""
+          "Value": "\"PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4="
-        }
-      ]
-    },
-    {
-      "Route": "images/PCs-2.i02hg0m2hv.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\PCs-2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "495531"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:22 GMT"
+          "Value": "Fri, 20 Jun 2025 16:11:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1535,21 +1516,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i02hg0m2hv"
+          "Value": "4mmzkvu0rp"
         },
         {
           "Name": "label",
-          "Value": "images/PCs-2.jpg"
+          "Value": "images/categories/Fruits & Vegetables/products/bananas.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM="
         }
       ]
     },
     {
-      "Route": "images/PCs-2.jpg",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\PCs-2.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/bananas.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\bananas.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1558,7 +1539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "7457"
         },
         {
           "Name": "Content-Type",
@@ -1566,11 +1547,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:22 GMT"
+          "Value": "Fri, 20 Jun 2025 16:11:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1580,13 +1561,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM="
         }
       ]
     },
     {
-      "Route": "images/Workstation-set-up.5w9zlofs2g.png",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\Workstation-set-up.png",
+      "Route": "images/categories/Fruits & Vegetables/products/carrots.36y8rx6hzy.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\carrots.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1595,19 +1576,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "184159"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:56 GMT"
+          "Value": "Fri, 20 Jun 2025 16:13:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1617,21 +1598,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w9zlofs2g"
+          "Value": "36y8rx6hzy"
         },
         {
           "Name": "label",
-          "Value": "images/Workstation-set-up.png"
+          "Value": "images/categories/Fruits & Vegetables/products/carrots.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw="
         }
       ]
     },
     {
-      "Route": "images/Workstation-set-up.png",
-      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\Workstation-set-up.png",
+      "Route": "images/categories/Fruits & Vegetables/products/carrots.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\carrots.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1640,19 +1621,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "184159"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:56 GMT"
+          "Value": "Fri, 20 Jun 2025 16:13:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1662,7 +1643,335 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fruits & Vegetables/products/tomatoes.1jeqjzrpv7.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\tomatoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:15:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1jeqjzrpv7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Fruits & Vegetables/products/tomatoes.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fruits & Vegetables/products/tomatoes.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\tomatoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:15:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/Meat & Poultry.jpeg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\Meat & Poultry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 14:55:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/Meat & Poultry.m980b395dz.jpeg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\Meat & Poultry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 14:55:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m980b395dz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Meat & Poultry/Meat & Poultry.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/beef_steak.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\beef_steak.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/beef_steak.y09tpax9r9.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\beef_steak.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:05:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y09tpax9r9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Meat & Poultry/products/beef_steak.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/chicken_breast.cbtoc9on66.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:02:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbtoc9on66"
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Meat & Poultry/products/chicken_breast.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/chicken_breast.jpg",
+      "AssetFile": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:02:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0="
         }
       ]
     }

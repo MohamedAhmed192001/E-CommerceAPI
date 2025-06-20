@@ -1,68 +1,80 @@
 {
   "Files": [
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
-      "PackagePath": "staticwebassets\\images\\12430def-be1c-4104-b210-2dcc83d8beb1.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg",
+      "PackagePath": "staticwebassets\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
-      "PackagePath": "staticwebassets\\images\\1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\chips.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Bakery & Bread\\products\\chips.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
-      "PackagePath": "staticwebassets\\images\\1cfe7d6b-539e-496f-9b71-7d871773b225.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\croissant.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Bakery & Bread\\products\\croissant.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
-      "PackagePath": "staticwebassets\\images\\1eadead7-9465-491a-b0db-855eb4a28ae2.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\products\\white_bread.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Bakery & Bread\\products\\white_bread.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
-      "PackagePath": "staticwebassets\\images\\2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\Dairy & Eggs.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Dairy & Eggs\\Dairy & Eggs.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
-      "PackagePath": "staticwebassets\\images\\39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\eggs.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Dairy & Eggs\\products\\eggs.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
-      "PackagePath": "staticwebassets\\images\\5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\milk.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Dairy & Eggs\\products\\milk.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
-      "PackagePath": "staticwebassets\\images\\65bd6426-b869-4c89-a824-6a57ca6542c9.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Dairy & Eggs\\products\\yogurt.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Dairy & Eggs\\products\\yogurt.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
-      "PackagePath": "staticwebassets\\images\\87caf0a2-fb17-4d9e-941b-ff2a287c7005.png"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\Fish & Seafood.png",
+      "PackagePath": "staticwebassets\\images\\categories\\Fish & Seafood\\Fish & Seafood.png"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
-      "PackagePath": "staticwebassets\\images\\9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\salmon_fillet.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fish & Seafood\\products\\salmon_fillet.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP (1).jpg",
-      "PackagePath": "staticwebassets\\images\\OIP (1).jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\OIP.jpg",
-      "PackagePath": "staticwebassets\\images\\OIP.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\PCs-2.jpg",
-      "PackagePath": "staticwebassets\\images\\PCs-2.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\apples.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables\\products\\apples.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\Workstation-set-up.png",
-      "PackagePath": "staticwebassets\\images\\Workstation-set-up.png"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\bananas.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables\\products\\bananas.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
-      "PackagePath": "staticwebassets\\images\\b80bdb36-e779-4f9f-95ef-249067b14af9.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\carrots.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables\\products\\carrots.jpg"
     },
     {
-      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
-      "PackagePath": "staticwebassets\\images\\f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg"
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\products\\tomatoes.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables\\products\\tomatoes.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\Meat & Poultry.jpeg",
+      "PackagePath": "staticwebassets\\images\\categories\\Meat & Poultry\\Meat & Poultry.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\beef_steak.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Meat & Poultry\\products\\beef_steak.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ECommerceAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

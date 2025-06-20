@@ -3,8 +3,8 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "images/12430def-be1c-4104-b210-2dcc83d8beb1.al7bner2ux.jpg",
-      "AssetFile": "images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
+      "Route": "images/categories/Bakery & Bread/Bakery & Bread.6fy4wxvk5f.jpeg",
+      "AssetFile": "images/categories/Bakery & Bread/Bakery & Bread.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "159641"
+          "Value": "22402"
         },
         {
           "Name": "Content-Type",
@@ -25,31 +25,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU=\""
+          "Value": "\"vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:58 GMT"
+          "Value": "Wed, 18 Jun 2025 21:36:06 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "al7bner2ux"
+          "Value": "6fy4wxvk5f"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU="
+          "Value": "sha256-vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408="
         },
         {
           "Name": "label",
-          "Value": "images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg"
+          "Value": "images/categories/Bakery & Bread/Bakery & Bread.jpeg"
         }
       ]
     },
     {
-      "Route": "images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
-      "AssetFile": "images/12430def-be1c-4104-b210-2dcc83d8beb1.jpg",
+      "Route": "images/categories/Bakery & Bread/Bakery & Bread.jpeg",
+      "AssetFile": "images/categories/Bakery & Bread/Bakery & Bread.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "159641"
+          "Value": "22402"
         },
         {
           "Name": "Content-Type",
@@ -70,23 +70,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU=\""
+          "Value": "\"vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:58 GMT"
+          "Value": "Wed, 18 Jun 2025 21:36:06 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Lpqffwi7BFRIzmu/sha8Y+AuHyT+AE7rR/kzEQWrnzU="
+          "Value": "sha256-vkQICs9ZtbjVnlukJMWJ44piK7200fP3fEnAGgLy408="
         }
       ]
     },
     {
-      "Route": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
-      "AssetFile": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
+      "Route": "images/categories/Bakery & Bread/products/chips.jpg",
+      "AssetFile": "images/categories/Bakery & Bread/products/chips.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,7 +99,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "12924"
         },
         {
           "Name": "Content-Type",
@@ -107,23 +107,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:45:02 GMT"
+          "Value": "Thu, 19 Jun 2025 14:14:47 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM="
         }
       ]
     },
     {
-      "Route": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.qno1pus7xm.jpg",
-      "AssetFile": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg",
+      "Route": "images/categories/Bakery & Bread/products/chips.shkbditd90.jpg",
+      "AssetFile": "images/categories/Bakery & Bread/products/chips.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -136,7 +136,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "12924"
         },
         {
           "Name": "Content-Type",
@@ -144,31 +144,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:45:02 GMT"
+          "Value": "Thu, 19 Jun 2025 14:14:47 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qno1pus7xm"
+          "Value": "shkbditd90"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-gAG84tXx0gpZKm8k2Ag69vnUvoyEYRB1xQCXLvnF1LM="
         },
         {
           "Name": "label",
-          "Value": "images/1c8d3acb-136c-43e2-8b9d-4b3451d9d965.jpg"
+          "Value": "images/categories/Bakery & Bread/products/chips.jpg"
         }
       ]
     },
     {
-      "Route": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
-      "AssetFile": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
+      "Route": "images/categories/Bakery & Bread/products/croissant.jpg",
+      "AssetFile": "images/categories/Bakery & Bread/products/croissant.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -181,7 +181,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "134038"
         },
         {
           "Name": "Content-Type",
@@ -189,23 +189,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:08 GMT"
+          "Value": "Fri, 20 Jun 2025 16:08:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U="
         }
       ]
     },
     {
-      "Route": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.qno1pus7xm.jpg",
-      "AssetFile": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg",
+      "Route": "images/categories/Bakery & Bread/products/croissant.ytzyrzhlfg.jpg",
+      "AssetFile": "images/categories/Bakery & Bread/products/croissant.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -218,7 +218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "134038"
         },
         {
           "Name": "Content-Type",
@@ -226,31 +226,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:49:08 GMT"
+          "Value": "Fri, 20 Jun 2025 16:08:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qno1pus7xm"
+          "Value": "ytzyrzhlfg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-5qD7Y2x5Tw4lpgM5z++ubF3eIeIPcoQp2zf9b6dVA+U="
         },
         {
           "Name": "label",
-          "Value": "images/1cfe7d6b-539e-496f-9b71-7d871773b225.jpg"
+          "Value": "images/categories/Bakery & Bread/products/croissant.jpg"
         }
       ]
     },
     {
-      "Route": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.i02hg0m2hv.jpg",
-      "AssetFile": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
+      "Route": "images/categories/Bakery & Bread/products/white_bread.2qcjnlvh1t.jpg",
+      "AssetFile": "images/categories/Bakery & Bread/products/white_bread.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -263,7 +263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "9260"
         },
         {
           "Name": "Content-Type",
@@ -271,31 +271,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:14:54 GMT"
+          "Value": "Fri, 20 Jun 2025 16:07:50 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i02hg0m2hv"
+          "Value": "2qcjnlvh1t"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc="
         },
         {
           "Name": "label",
-          "Value": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg"
+          "Value": "images/categories/Bakery & Bread/products/white_bread.jpg"
         }
       ]
     },
     {
-      "Route": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
-      "AssetFile": "images/1eadead7-9465-491a-b0db-855eb4a28ae2.jpg",
+      "Route": "images/categories/Bakery & Bread/products/white_bread.jpg",
+      "AssetFile": "images/categories/Bakery & Bread/products/white_bread.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -308,7 +308,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "9260"
         },
         {
           "Name": "Content-Type",
@@ -316,23 +316,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:14:54 GMT"
+          "Value": "Fri, 20 Jun 2025 16:07:50 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-1h1LHWMpZ4S6UHrFLH2ybnjLoaV6LI6EpZATwLrBzJc="
         }
       ]
     },
     {
-      "Route": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.9yav6xqdu0.jpg",
-      "AssetFile": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
+      "Route": "images/categories/Dairy & Eggs/Dairy & Eggs.c2lizk1ufd.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/Dairy & Eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -345,7 +345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "113353"
         },
         {
           "Name": "Content-Type",
@@ -353,31 +353,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:11:33 GMT"
+          "Value": "Wed, 18 Jun 2025 21:35:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9yav6xqdu0"
+          "Value": "c2lizk1ufd"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg="
         },
         {
           "Name": "label",
-          "Value": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg"
+          "Value": "images/categories/Dairy & Eggs/Dairy & Eggs.jpg"
         }
       ]
     },
     {
-      "Route": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
-      "AssetFile": "images/2ff3d766-8fa8-44fd-ba0a-bf669920e43b.jpg",
+      "Route": "images/categories/Dairy & Eggs/Dairy & Eggs.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/Dairy & Eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -390,7 +390,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "113353"
         },
         {
           "Name": "Content-Type",
@@ -398,23 +398,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:11:33 GMT"
+          "Value": "Wed, 18 Jun 2025 21:35:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-JJ5w0h4ep6l4+BiyPqQtB8w3W3vmCXFBQXF/RNXc5jg="
         }
       ]
     },
     {
-      "Route": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.27cdulic2k.jpg",
-      "AssetFile": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/eggs.6kywkdjiox.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/products/eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -427,7 +427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53723"
+          "Value": "49629"
         },
         {
           "Name": "Content-Type",
@@ -435,31 +435,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc=\""
+          "Value": "\"CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:59 GMT"
+          "Value": "Fri, 20 Jun 2025 16:10:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "27cdulic2k"
+          "Value": "6kywkdjiox"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc="
+          "Value": "sha256-CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk="
         },
         {
           "Name": "label",
-          "Value": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg"
+          "Value": "images/categories/Dairy & Eggs/products/eggs.jpg"
         }
       ]
     },
     {
-      "Route": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
-      "AssetFile": "images/39d2d88f-6701-41a4-aeee-a9b9fd93b13b.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/eggs.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/products/eggs.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -472,7 +472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53723"
+          "Value": "49629"
         },
         {
           "Name": "Content-Type",
@@ -480,23 +480,68 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc=\""
+          "Value": "\"CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:59 GMT"
+          "Value": "Fri, 20 Jun 2025 16:10:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ag9KH7BDLBK+HihK5WTHqr+Bv1VvwoxAM2mpkkIROZc="
+          "Value": "sha256-CvEywaOwhynJEa8hjRBqLVxOFCEg5XqkDMWGSeK97Hk="
         }
       ]
     },
     {
-      "Route": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
-      "AssetFile": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/milk.e9br5kviv0.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/products/milk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:13:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9br5kviv0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Dairy & Eggs/products/milk.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Dairy & Eggs/products/milk.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/products/milk.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -509,7 +554,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "129857"
         },
         {
           "Name": "Content-Type",
@@ -517,23 +562,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:25:50 GMT"
+          "Value": "Thu, 19 Jun 2025 14:13:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM="
         }
       ]
     },
     {
-      "Route": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.qno1pus7xm.jpg",
-      "AssetFile": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/yogurt.23pjuuqvvu.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/products/yogurt.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -546,7 +591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116712"
+          "Value": "9626"
         },
         {
           "Name": "Content-Type",
@@ -554,76 +599,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc=\""
+          "Value": "\"QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:25:50 GMT"
+          "Value": "Thu, 19 Jun 2025 14:16:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qno1pus7xm"
+          "Value": "23pjuuqvvu"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6lu8JkHbwha1YfcMTrpM1X/nGIIAfNUmcCxiku2upEc="
+          "Value": "sha256-QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg="
         },
         {
           "Name": "label",
-          "Value": "images/5ef32ec2-4ba5-4d94-a5dc-5bece63118df.jpg"
+          "Value": "images/categories/Dairy & Eggs/products/yogurt.jpg"
         }
       ]
     },
     {
-      "Route": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.1gselgt7s9.jpg",
-      "AssetFile": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12935"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:10 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1gselgt7s9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0="
-        },
-        {
-          "Name": "label",
-          "Value": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
-      "AssetFile": "images/65bd6426-b869-4c89-a824-6a57ca6542c9.jpg",
+      "Route": "images/categories/Dairy & Eggs/products/yogurt.jpg",
+      "AssetFile": "images/categories/Dairy & Eggs/products/yogurt.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -636,7 +636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12935"
+          "Value": "9626"
         },
         {
           "Name": "Content-Type",
@@ -644,23 +644,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0=\""
+          "Value": "\"QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:10 GMT"
+          "Value": "Thu, 19 Jun 2025 14:16:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-f3NYeeuCPlah+fhzP7kfh+M0Kuh/jTo5iIL34YqSmn0="
+          "Value": "sha256-QoQpg4KkU5urcksHKM/PNO3Fe0Y3C1KDBDX7xtEsyXg="
         }
       ]
     },
     {
-      "Route": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.5w9zlofs2g.png",
-      "AssetFile": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
+      "Route": "images/categories/Fish & Seafood/Fish & Seafood.abplkfrx2g.png",
+      "AssetFile": "images/categories/Fish & Seafood/Fish & Seafood.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -673,7 +673,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "780230"
         },
         {
           "Name": "Content-Type",
@@ -681,31 +681,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:13:24 GMT"
+          "Value": "Fri, 20 Jun 2025 14:57:13 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w9zlofs2g"
+          "Value": "abplkfrx2g"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw="
         },
         {
           "Name": "label",
-          "Value": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png"
+          "Value": "images/categories/Fish & Seafood/Fish & Seafood.png"
         }
       ]
     },
     {
-      "Route": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
-      "AssetFile": "images/87caf0a2-fb17-4d9e-941b-ff2a287c7005.png",
+      "Route": "images/categories/Fish & Seafood/Fish & Seafood.png",
+      "AssetFile": "images/categories/Fish & Seafood/Fish & Seafood.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -718,7 +718,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "780230"
         },
         {
           "Name": "Content-Type",
@@ -726,60 +726,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:13:24 GMT"
+          "Value": "Fri, 20 Jun 2025 14:57:13 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-ZpP+yloB2E4/6ZsEz4qCh0+wQrKWR2uURJQV9ic97Tw="
         }
       ]
     },
     {
-      "Route": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
-      "AssetFile": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "122302"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI="
-        }
-      ]
-    },
-    {
-      "Route": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.stgso49sx8.jpg",
-      "AssetFile": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg",
+      "Route": "images/categories/Fish & Seafood/products/salmon_fillet.b38li1w3ju.jpg",
+      "AssetFile": "images/categories/Fish & Seafood/products/salmon_fillet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "122302"
+          "Value": "83457"
         },
         {
           "Name": "Content-Type",
@@ -800,76 +763,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI=\""
+          "Value": "\"N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:10:18 GMT"
+          "Value": "Fri, 20 Jun 2025 15:55:24 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "stgso49sx8"
+          "Value": "b38li1w3ju"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0IPSRRFzHHfV+yD8kkvjFukKDiFqDdKx1ytr4+7MKTI="
+          "Value": "sha256-N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc="
         },
         {
           "Name": "label",
-          "Value": "images/9803e10f-9823-4a9d-8fd3-e8de7f5b1724.jpg"
+          "Value": "images/categories/Fish & Seafood/products/salmon_fillet.jpg"
         }
       ]
     },
     {
-      "Route": "images/OIP (1).9yav6xqdu0.jpg",
-      "AssetFile": "images/OIP (1).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:07:59 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9yav6xqdu0"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
-        },
-        {
-          "Name": "label",
-          "Value": "images/OIP (1).jpg"
-        }
-      ]
-    },
-    {
-      "Route": "images/OIP (1).jpg",
-      "AssetFile": "images/OIP (1).jpg",
+      "Route": "images/categories/Fish & Seafood/products/salmon_fillet.jpg",
+      "AssetFile": "images/categories/Fish & Seafood/products/salmon_fillet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -882,7 +800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23958"
+          "Value": "83457"
         },
         {
           "Name": "Content-Type",
@@ -890,23 +808,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw=\""
+          "Value": "\"N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:07:59 GMT"
+          "Value": "Fri, 20 Jun 2025 15:55:24 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z+zBnQKl5d+Dvlp4E1NDAoRZA7aYTX+5/OtXqD6DZkw="
+          "Value": "sha256-N9LedLvVOjl7rkVD3i/0dJrY1bw5VVJX7JWXazN62bc="
         }
       ]
     },
     {
-      "Route": "images/OIP.7xbcsen4bn.jpg",
-      "AssetFile": "images/OIP.jpg",
+      "Route": "images/categories/Fish & Seafood/products/shrimp.hx6y34grvz.jpg",
+      "AssetFile": "images/categories/Fish & Seafood/products/shrimp.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -919,7 +837,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12092"
+          "Value": "8344"
         },
         {
           "Name": "Content-Type",
@@ -927,31 +845,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4=\""
+          "Value": "\"lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:07 GMT"
+          "Value": "Fri, 20 Jun 2025 15:56:16 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7xbcsen4bn"
+          "Value": "hx6y34grvz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4="
+          "Value": "sha256-lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg="
         },
         {
           "Name": "label",
-          "Value": "images/OIP.jpg"
+          "Value": "images/categories/Fish & Seafood/products/shrimp.jpg"
         }
       ]
     },
     {
-      "Route": "images/OIP.jpg",
-      "AssetFile": "images/OIP.jpg",
+      "Route": "images/categories/Fish & Seafood/products/shrimp.jpg",
+      "AssetFile": "images/categories/Fish & Seafood/products/shrimp.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -964,7 +882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12092"
+          "Value": "8344"
         },
         {
           "Name": "Content-Type",
@@ -972,23 +890,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4=\""
+          "Value": "\"lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:07 GMT"
+          "Value": "Fri, 20 Jun 2025 15:56:16 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pTRaM5ZCC/eYilTKoVcIyFyb8/2h25Qh3EtxU+DsoL4="
+          "Value": "sha256-lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg="
         }
       ]
     },
     {
-      "Route": "images/PCs-2.i02hg0m2hv.jpg",
-      "AssetFile": "images/PCs-2.jpg",
+      "Route": "images/categories/Fruits & Vegetables/Fruits & Vegetables.9c87v00jsn.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/Fruits & Vegetables.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1001,7 +919,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "701428"
         },
         {
           "Name": "Content-Type",
@@ -1009,31 +927,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:22 GMT"
+          "Value": "Thu, 19 Jun 2025 10:31:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i02hg0m2hv"
+          "Value": "9c87v00jsn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU="
         },
         {
           "Name": "label",
-          "Value": "images/PCs-2.jpg"
+          "Value": "images/categories/Fruits & Vegetables/Fruits & Vegetables.jpg"
         }
       ]
     },
     {
-      "Route": "images/PCs-2.jpg",
-      "AssetFile": "images/PCs-2.jpg",
+      "Route": "images/categories/Fruits & Vegetables/Fruits & Vegetables.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/Fruits & Vegetables.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1046,7 +964,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495531"
+          "Value": "701428"
         },
         {
           "Name": "Content-Type",
@@ -1054,23 +972,60 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8=\""
+          "Value": "\"B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:22 GMT"
+          "Value": "Thu, 19 Jun 2025 10:31:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jusk9WIw29G2/jTJg8POxkqAtYv20uM7/vpIamD0fK8="
+          "Value": "sha256-B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU="
         }
       ]
     },
     {
-      "Route": "images/Workstation-set-up.5w9zlofs2g.png",
-      "AssetFile": "images/Workstation-set-up.png",
+      "Route": "images/categories/Fruits & Vegetables/products/apples.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/apples.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1917415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:12:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fruits & Vegetables/products/apples.qqv5gjtwpt.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/apples.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1083,76 +1038,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161148"
+          "Value": "1917415"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
+          "Value": "\"8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:56 GMT"
+          "Value": "Thu, 19 Jun 2025 14:12:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5w9zlofs2g"
+          "Value": "qqv5gjtwpt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
+          "Value": "sha256-8jui0Jcbmz5S+FAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ="
         },
         {
           "Name": "label",
-          "Value": "images/Workstation-set-up.png"
+          "Value": "images/categories/Fruits & Vegetables/products/apples.jpg"
         }
       ]
     },
     {
-      "Route": "images/Workstation-set-up.png",
-      "AssetFile": "images/Workstation-set-up.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "161148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 24 May 2025 20:02:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K15KeKw9THbSPLh7S3hpMO+w2wNYOF4HLZmc+uwA4p8="
-        }
-      ]
-    },
-    {
-      "Route": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.8cyenpfbuo.jpg",
-      "AssetFile": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/bananas.4mmzkvu0rp.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/bananas.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1165,7 +1083,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15814"
+          "Value": "7457"
         },
         {
           "Name": "Content-Type",
@@ -1173,31 +1091,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I=\""
+          "Value": "\"PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:56 GMT"
+          "Value": "Fri, 20 Jun 2025 16:11:52 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8cyenpfbuo"
+          "Value": "4mmzkvu0rp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I="
+          "Value": "sha256-PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM="
         },
         {
           "Name": "label",
-          "Value": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg"
+          "Value": "images/categories/Fruits & Vegetables/products/bananas.jpg"
         }
       ]
     },
     {
-      "Route": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
-      "AssetFile": "images/b80bdb36-e779-4f9f-95ef-249067b14af9.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/bananas.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/bananas.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1210,7 +1128,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15814"
+          "Value": "7457"
         },
         {
           "Name": "Content-Type",
@@ -1218,23 +1136,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I=\""
+          "Value": "\"PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 22:12:56 GMT"
+          "Value": "Fri, 20 Jun 2025 16:11:52 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WNCOYYswu24G/4MIgB50Xx4vuV8C2bQwfytsaG1AK+I="
+          "Value": "sha256-PK12qVVS9Ldd8vI3zmLYm90AZNpEYhzVNg9ntHK+jWM="
         }
       ]
     },
     {
-      "Route": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.6t1vxrk2oc.jpg",
-      "AssetFile": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/carrots.36y8rx6hzy.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/carrots.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1247,7 +1165,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "181598"
+          "Value": "184159"
         },
         {
           "Name": "Content-Type",
@@ -1255,31 +1173,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU=\""
+          "Value": "\"+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:52:59 GMT"
+          "Value": "Fri, 20 Jun 2025 16:13:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6t1vxrk2oc"
+          "Value": "36y8rx6hzy"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU="
+          "Value": "sha256-+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw="
         },
         {
           "Name": "label",
-          "Value": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg"
+          "Value": "images/categories/Fruits & Vegetables/products/carrots.jpg"
         }
       ]
     },
     {
-      "Route": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
-      "AssetFile": "images/f66c3d93-32a5-4da5-8fc4-34f28eeaf08e.jpg",
+      "Route": "images/categories/Fruits & Vegetables/products/carrots.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/carrots.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1292,7 +1210,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "181598"
+          "Value": "184159"
         },
         {
           "Name": "Content-Type",
@@ -1300,17 +1218,345 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU=\""
+          "Value": "\"+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 16:52:59 GMT"
+          "Value": "Fri, 20 Jun 2025 16:13:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fhhra7ERd2mXoIcmgwGXurKV89Q5d2S16rTLPsDFXEU="
+          "Value": "sha256-+x1xujfMLEgJX8MbaotUjfJb8DNtVS7qVIkaLPXj7vw="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fruits & Vegetables/products/tomatoes.1jeqjzrpv7.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/tomatoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:15:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1jeqjzrpv7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Fruits & Vegetables/products/tomatoes.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Fruits & Vegetables/products/tomatoes.jpg",
+      "AssetFile": "images/categories/Fruits & Vegetables/products/tomatoes.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 14:15:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvExadL4itBZ3hylXsv4jsm+5+lmaYvw4ojnvrD9U8="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/Meat & Poultry.jpeg",
+      "AssetFile": "images/categories/Meat & Poultry/Meat & Poultry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 14:55:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/Meat & Poultry.m980b395dz.jpeg",
+      "AssetFile": "images/categories/Meat & Poultry/Meat & Poultry.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 14:55:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m980b395dz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ji/u6q5YefGUym3XGnCekUpwOgk7wVVmIK7/CdSFCaY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Meat & Poultry/Meat & Poultry.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/beef_steak.jpg",
+      "AssetFile": "images/categories/Meat & Poultry/products/beef_steak.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/beef_steak.y09tpax9r9.jpg",
+      "AssetFile": "images/categories/Meat & Poultry/products/beef_steak.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:05:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y09tpax9r9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dry/EIYUPR3lIwjARRuYntkGXEvhKcT5FHvCjh5ze1I="
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Meat & Poultry/products/beef_steak.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/chicken_breast.cbtoc9on66.jpg",
+      "AssetFile": "images/categories/Meat & Poultry/products/chicken_breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:02:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbtoc9on66"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/categories/Meat & Poultry/products/chicken_breast.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/categories/Meat & Poultry/products/chicken_breast.jpg",
+      "AssetFile": "images/categories/Meat & Poultry/products/chicken_breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 16:02:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mMU7Sw0GauWLZ/scsGprsxoqWzfeR3XX1v0D/o/YhF0="
         }
       ]
     }

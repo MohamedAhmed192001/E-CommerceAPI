@@ -25,7 +25,6 @@ namespace ECommerceAPI.Controllers
                 return NotFound(new { Message = $"Category with id = {model.CategoryId} is not found!" });
 
 
-
             if (model.ImageFile == null || model.ImageFile.Length == 0)
                 return BadRequest("Image is required.");
 
@@ -46,6 +45,10 @@ namespace ECommerceAPI.Controllers
                 Description = model.Description,
                 Price = model.Price,
                 Stock = model.Stock,
+                UnitSize = model.UnitSize,
+                Sku = model.Sku,
+                CreatedAt = DateTime.UtcNow,
+                IsAvailable = true,
                 CategoryId = model.CategoryId,
                 ImagePath = "/images/" + fileName // Save only relative path
             };
@@ -120,6 +123,38 @@ namespace ECommerceAPI.Controllers
             await _dbContext.SaveChangesAsync();
 
             return Ok(new {Message =  $"Product with id = {id} is deleted successfully!" });
+        }
+
+        [HttpGet("get-featured-products")]
+        [Authorize(Roles = "Customer, Admin")]
+        public async Task<IActionResult> GetFeaturedProducts()
+        {
+            var featuredProducts = _dbContext.Products.Where(p => p.IsFeatured)
+                .Select(p => new
+                {
+                    p.Id,
+                    p.Name,
+                    p.Price,
+                    p.ImagePath
+                });
+
+            return Ok(featuredProducts);
+        }
+
+        [HttpGet("get-products-by-categoryId/{categoryId}")]
+        [Authorize(Roles = "Customer, Admin")]
+        public async Task<IActionResult> GetProductsByCategoryId(int categoryId)
+        {
+            var products = _dbContext.Products.Where(p => p.CategoryId == categoryId)
+                .Select(p => new
+                {
+                    p.Id,
+                    p.Name,
+                    p.Price,
+                    p.ImagePath
+                });
+
+            return Ok(products);
         }
     }
 }

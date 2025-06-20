@@ -335,3 +335,8 @@ E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\obj\Debug\net9.0
 E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ECommerceAPI.props
 E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\obj\Debug\net9.0\staticwebassets.pack.json
 E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Visual Studio 2022\.NET Core Projects\ECommerce\ECommerceAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll

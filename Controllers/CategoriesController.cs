@@ -1,9 +1,11 @@
-﻿using ECommerceAPI.Data;
+﻿using Microsoft.AspNetCore.Mvc;
+using ECommerceAPI.Data;
 using ECommerceAPI.CreateUserDtos;
 using ECommerceAPI.Models;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+
+
 
 namespace ECommerceAPI.Controllers
 {
@@ -12,16 +14,31 @@ namespace ECommerceAPI.Controllers
 
     public class CategoriesController(ApplicationDbContext _dbContext) : ControllerBase
     {
-        [HttpPost]
+        [HttpPost("add-category")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult> CreateCategory(CategoryDto model)
+        public async Task<ActionResult> AddCategory(CategoryDto model)
         {
             if(!ModelState.IsValid)
                 return BadRequest(ModelState);
 
+            if (model.Image == null || model.Image.Length == 0)
+                return BadRequest("Image is required.");
+
+            // Generate unique file name
+            var fileName = model.Image.FileName;
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/categories", fileName);
+
+            // Save the image to wwwroot/images
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await model.Image.CopyToAsync(stream);
+            }
+
             var category = new Category()
             {
-                Name = model.Name
+                Name = model.Name,
+                Description= model.Description,
+                ImagePath = $"images/categories/{fileName}"
             };
             await _dbContext.Categories.AddAsync(category);
             await _dbContext.SaveChangesAsync();
@@ -36,8 +53,8 @@ namespace ECommerceAPI.Controllers
             return Ok(categories);
         }
 
-        [HttpGet("{id}")]
-        [Authorize(Roles = "Customer")]
+        [HttpGet("get-category-by-id/{id}")]
+        [Authorize(Roles = "Customer, Admin")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {
             if (!ModelState.IsValid)
@@ -46,12 +63,15 @@ namespace ECommerceAPI.Controllers
             var category = await _dbContext.Categories.FindAsync(id);
             if(category == null)
                 return NotFound(new {Message = $"Category with id = {id} is not found"});
-            return Ok(category);
+
+            
+
+            return Ok(new {Name = category.Name, Description = category.Description});
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("update-category/{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<ActionResult> UpdateCategory(int id, CategoryDto model)
+        public async Task<ActionResult> UpdateCategory(int id, [FromForm]CategoryDto model)
         {
             if(!ModelState.IsValid) 
                 return BadRequest(ModelState);
@@ -60,7 +80,23 @@ namespace ECommerceAPI.Controllers
             if (category == null)
                 return NotFound(new { Message = $"Category with id = {id} is not found" });
 
+
+            if (model.Image == null || model.Image.Length == 0)
+                return BadRequest("Image is required.");
+
+            // Generate unique file name
+            var fileName = model.Image.FileName;
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/categories", fileName);
+
+            // Save the image to wwwroot/images
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await model.Image.CopyToAsync(stream);
+            }
+
             category.Name = model.Name;
+            category.Description = model.Description;
+            category.ImagePath = $"images/categories/{fileName}";
             await _dbContext.SaveChangesAsync();
           
             return Ok(new {Message = $"Category with id = {id} is updated successfully!"});
@@ -68,7 +104,7 @@ namespace ECommerceAPI.Controllers
         }
 
 
-        [HttpDelete("{id}")]
+        [HttpDelete("delete-category/{id}")]
         [Authorize(Roles = "Admin")]
         public async Task<ActionResult> DeleteCategory(int id)
         {
@@ -82,7 +118,7 @@ namespace ECommerceAPI.Controllers
             _dbContext.Categories.Remove(category);
             await _dbContext.SaveChangesAsync();
 
-            return Ok(new {Message = $"Category with id = {id} is deleted successfully!" });
+            return Ok(new {Message = $"Category deleted successfully!" });
 
         }
 
