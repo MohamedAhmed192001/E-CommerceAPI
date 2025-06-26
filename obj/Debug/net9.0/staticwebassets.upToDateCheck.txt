@@ -1,3 +1,6 @@
+wwwroot\images\488ed3f9-086a-4928-85df-8457858ba819.jpg
+wwwroot\images\cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg
+wwwroot\images\categories\apples.jpg
 wwwroot\images\categories\Bakery & Bread\Bakery & Bread.jpeg
 wwwroot\images\categories\Bakery & Bread\products\chips.jpg
 wwwroot\images\categories\Bakery & Bread\products\croissant.jpg
@@ -9,6 +12,7 @@ wwwroot\images\categories\Dairy & Eggs\products\yogurt.jpg
 wwwroot\images\categories\Fish & Seafood\Fish & Seafood.png
 wwwroot\images\categories\Fish & Seafood\products\salmon_fillet.jpg
 wwwroot\images\categories\Fish & Seafood\products\shrimp.jpg
+wwwroot\images\categories\Fruits & Vegetables.jpg
 wwwroot\images\categories\Fruits & Vegetables\Fruits & Vegetables.jpg
 wwwroot\images\categories\Fruits & Vegetables\products\apples.jpg
 wwwroot\images\categories\Fruits & Vegetables\products\bananas.jpg

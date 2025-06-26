@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/488ed3f9-086a-4928-85df-8457858ba819.e9br5kviv0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\488ed3f9-086a-4928-85df-8457858ba819.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e9br5kviv0"},{"Name":"integrity","Value":"sha256-PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM="},{"Name":"label","Value":"_content/ECommerceAPI/images/488ed3f9-086a-4928-85df-8457858ba819.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129857"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 20:49:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/488ed3f9-086a-4928-85df-8457858ba819.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\488ed3f9-086a-4928-85df-8457858ba819.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"129857"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PikVGOmNZIH9/wBS/DHrsECfMlKu4LolCFgyX1l/XPM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 20:49:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.c2lizk1ufd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2lizk1ufd"},{"Name":"integrity","Value":"sha256-JJ5w0h4ep6l4\u002BBiyPqQtB8w3W3vmCXFBQXF/RNXc5jg="},{"Name":"label","Value":"_content/ECommerceAPI/images/cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"113353"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJ5w0h4ep6l4\u002BBiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 21:36:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JJ5w0h4ep6l4\u002BBiyPqQtB8w3W3vmCXFBQXF/RNXc5jg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"113353"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJ5w0h4ep6l4\u002BBiyPqQtB8w3W3vmCXFBQXF/RNXc5jg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 21:36:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/categories/apples.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\apples.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8jui0Jcbmz5S\u002BFAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1917415"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00228jui0Jcbmz5S\u002BFAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 21:35:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/categories/apples.qqv5gjtwpt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\apples.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qqv5gjtwpt"},{"Name":"integrity","Value":"sha256-8jui0Jcbmz5S\u002BFAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ="},{"Name":"label","Value":"_content/ECommerceAPI/images/categories/apples.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1917415"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00228jui0Jcbmz5S\u002BFAI9CeAcqb6FNE2Up4WeCrNwSFZSuQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 21:35:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/categories/Bakery &amp; Bread/Bakery &amp; Bread.6fy4wxvk5f.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Bakery &amp; Bread\Bakery &amp; Bread.jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -131,6 +167,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8344"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lYoM7OJNOYYj4wm/2QCpKjMQPpdwIds/jwj3P2G4LJg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 15:56:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/categories/Fruits &amp; Vegetables.9c87v00jsn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9c87v00jsn"},{"Name":"integrity","Value":"sha256-B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU="},{"Name":"label","Value":"_content/ECommerceAPI/images/categories/Fruits \u0026 Vegetables.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"701428"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 21:35:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/categories/Fruits &amp; Vegetables.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"701428"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022B5sJiSqkErjg70gfwexh2ocf13SYVGiTSC5vDfTSffU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 21:35:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ECommerceAPI/images/categories/Fruits &amp; Vegetables/Fruits &amp; Vegetables.9c87v00jsn.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\categories\Fruits &amp; Vegetables\Fruits &amp; Vegetables.jpg'))</AssetFile>

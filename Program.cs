@@ -1,5 +1,6 @@
 using ECommerceAPI;
 using ECommerceAPI.Data;
+using ECommerceAPI.EmailConfirmation;
 using ECommerceAPI.Models;
 using ECommerceAPI.Repositories;
 using ECommerceAPI.Repositories.Interfaces;
@@ -20,8 +21,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.Configure<IdentityOptions>(options =>
+{
+    options.SignIn.RequireConfirmedEmail = true;
+});
+
 builder.Services.AddScoped<ICartRepository, CartRepository>();
 builder.Services.AddScoped<ISearchRepository, SearchRepository>();
+builder.Services.AddScoped<EmailSender>();
+
 
 var jwtOptions = builder.Configuration.GetSection("JwtOptions").Get<JwtOptions>();
 builder.Services.AddSingleton(jwtOptions);

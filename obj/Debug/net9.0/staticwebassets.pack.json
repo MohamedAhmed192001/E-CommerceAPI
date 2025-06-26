@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\488ed3f9-086a-4928-85df-8457858ba819.jpg",
+      "PackagePath": "staticwebassets\\images\\488ed3f9-086a-4928-85df-8457858ba819.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg",
+      "PackagePath": "staticwebassets\\images\\cae3a3f0-2ade-4a0e-9b57-e09f92ac3c46.jpg"
+    },
+    {
       "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg",
       "PackagePath": "staticwebassets\\images\\categories\\Bakery & Bread\\Bakery & Bread.jpeg"
     },
@@ -45,6 +53,10 @@
       "PackagePath": "staticwebassets\\images\\categories\\Fish & Seafood\\products\\shrimp.jpg"
     },
     {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables.jpg"
+    },
+    {
       "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\Fruits & Vegetables\\Fruits & Vegetables.jpg"
     },
@@ -75,6 +87,10 @@
     {
       "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg",
       "PackagePath": "staticwebassets\\images\\categories\\Meat & Poultry\\products\\chicken_breast.jpg"
+    },
+    {
+      "Id": "E:\\Visual Studio 2022\\.NET Core Projects\\ECommerce\\ECommerceAPI\\wwwroot\\images\\categories\\apples.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\apples.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ECommerceAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
